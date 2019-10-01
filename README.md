@@ -7,5 +7,3 @@ Add this stylesheet to your ``<head>`` tag in your HTML File:
 ```html
 <link rel="stylesheet" href="http://sparxdev.de/sparxcss/lib/sparx.css">
 ```
-
-### **Full Documentation: [click me c:](https://sparxdev.de/sparxcss/)**
